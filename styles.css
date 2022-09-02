@@ -34,7 +34,7 @@ body{
 }
 
 .card__header{
-    background-image: url(images/image-product-mobile.jpg);
+    background-image: url("images/image-product-mobile.jpg");
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
@@ -128,7 +128,7 @@ body{
 .card__button::before{
     margin-right: 10px;
     padding-top: 10px;
-    content: url(images/icon-cart.svg);
+    content: url("images/icon-cart.svg");
 }
 
 /*MEDIA QUERIES*/
@@ -142,7 +142,7 @@ body{
     }
     
     .card__header{
-        background-image: url(images/image-product-desktop.jpg);
+        background-image: url("images/image-product-desktop.jpg");
         background-position: center;
         min-height: 100%;
     }
