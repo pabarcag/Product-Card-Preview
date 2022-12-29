@@ -7,6 +7,6 @@ Solution:
 The exercise was done with CSS grid and flexbox.
 
 Live page:
-https://patosinsuerte.github.io/Product-Card-Preview/
+https://pabarcag.github.io/Product-Card-Preview/
 
 
